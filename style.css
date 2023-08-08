@@ -1,0 +1,44 @@
+.box img {
+    width: 100%;
+}
+
+.about-section {
+    display: flex;
+}
+
+.about-text {
+    margin: 7% auto;
+}
+
+.about-text h2 {
+    color: chocolate;
+}
+
+.btn {
+    outline: none;
+    border: 0;
+    box-shadow: none;
+    background: chocolate;
+    color: white;
+    padding: 20px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 160px;
+}
+.btn:hover {
+    border: 1px solid chocolate;
+    background: white;
+    color: chocolate;
+}
+
+.about-img img {
+    border-radius: 15px;
+}
+
+.services h2 {
+    text-align: center;
+}
+
+.services p {
+    text-align: center;
+}
